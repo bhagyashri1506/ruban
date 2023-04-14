@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ruban/static/css/main.146c86cd.css",
-    "main.js": "/ruban/static/js/main.80767692.js",
+    "main.css": "/ruban/static/css/main.bae4f6a8.css",
+    "main.js": "/ruban/static/js/main.e1f9144d.js",
     "static/media/BerkeleyMono-Regular.ttf": "/ruban/static/media/BerkeleyMono-Regular.80885ddb96f2954fa8da.ttf",
     "static/media/BerkeleyMono-Bold.ttf": "/ruban/static/media/BerkeleyMono-Bold.22cfdfbcc6527bd1cf10.ttf",
     "static/media/Graph.png": "/ruban/static/media/Graph.02ea780b9f7c116017ed.png",
     "index.html": "/ruban/index.html",
     "static/media/eye.svg": "/ruban/static/media/eye.8f3a97b7f8d37cf6ae20.svg",
     "static/media/message.svg": "/ruban/static/media/message.35313b5e868157e4625e.svg",
-    "main.146c86cd.css.map": "/ruban/static/css/main.146c86cd.css.map",
-    "main.80767692.js.map": "/ruban/static/js/main.80767692.js.map"
+    "main.bae4f6a8.css.map": "/ruban/static/css/main.bae4f6a8.css.map",
+    "main.e1f9144d.js.map": "/ruban/static/js/main.e1f9144d.js.map"
   },
   "entrypoints": [
-    "static/css/main.146c86cd.css",
-    "static/js/main.80767692.js"
+    "static/css/main.bae4f6a8.css",
+    "static/js/main.e1f9144d.js"
   ]
 }
