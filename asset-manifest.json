@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ruban/static/css/main.4d858636.css",
-    "main.js": "/ruban/static/js/main.ec8040ce.js",
+    "main.css": "/ruban/static/css/main.1baaf2a9.css",
+    "main.js": "/ruban/static/js/main.a38b3bd9.js",
     "static/media/BerkeleyMono-Regular.ttf": "/ruban/static/media/BerkeleyMono-Regular.80885ddb96f2954fa8da.ttf",
     "static/media/BerkeleyMono-Bold.ttf": "/ruban/static/media/BerkeleyMono-Bold.22cfdfbcc6527bd1cf10.ttf",
     "index.html": "/ruban/index.html",
     "static/media/eye.svg": "/ruban/static/media/eye.8f3a97b7f8d37cf6ae20.svg",
     "static/media/message.svg": "/ruban/static/media/message.35313b5e868157e4625e.svg",
-    "main.4d858636.css.map": "/ruban/static/css/main.4d858636.css.map",
-    "main.ec8040ce.js.map": "/ruban/static/js/main.ec8040ce.js.map"
+    "main.1baaf2a9.css.map": "/ruban/static/css/main.1baaf2a9.css.map",
+    "main.a38b3bd9.js.map": "/ruban/static/js/main.a38b3bd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d858636.css",
-    "static/js/main.ec8040ce.js"
+    "static/css/main.1baaf2a9.css",
+    "static/js/main.a38b3bd9.js"
   ]
 }
